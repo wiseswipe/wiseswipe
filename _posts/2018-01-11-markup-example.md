@@ -3,7 +3,7 @@ layout: post
 title:  "Markdown Example"
 author: john
 categories: [ Jekyll, tutorial ]
-image: <img src="https://images-na.ssl-images-amazon.com/images/I/51aqCpklIIL._AC_SX425_.jpg">
+image: <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250">
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
 
